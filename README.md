@@ -4,12 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-*   🌍  I'm based in Enugu, Nigeria
-*   ✉️  You can contact me at [anazodomichael27@gmail.com](mailto:anazodomichael27@gmail.com)
-*   🚀  I'm currently working on [Nextjs Ecommerce site](http://artsy-ecommerce.vercel.app/)
-*   🧠  I'm learning Typescript, Redux, Vue
-*   🤝  I'm open to collaborating on Open Source projects, technical writings gigs
-*   ⚡  I love movies, coding and manga### Skills 
+* 🌍  I'm based in Enugu, Nigeria
+* ✉️  You can contact me at [anazodomichael27@gmail.com](mailto:anazodomichael27@gmail.com)
+* 🚀  I'm currently working on [Nextjs Ecommerce site](http://artsy-ecommerce.vercel.app/)
+* 🧠  I'm learning Typescript, Redux, Vue
+* 🤝  I'm open to collaborating on Open Source projects, technical writings gigs
+* ⚡  I love movies, coding and manga
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,16 +29,8 @@ Frontend Developer
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/King-Mikaelson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/MichaelAnazodo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/King-Mikaelson"><img src="https://github-readme-stats.vercel.app/api?username=King-Mikaelson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="King-Mikaelson's GitHub stats" /></a><a
-                      href="http://www.github.com/King-Mikaelson"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=King-Mikaelson&stroke=ef4444&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a><a
-                      href="http://www.github.com/King-Mikaelson"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=King-Mikaelson&bg_color=1c1917&color=ef4444&line=0891b2&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/King-Mikaelson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Mikaelson&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/King-Mikaelson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
